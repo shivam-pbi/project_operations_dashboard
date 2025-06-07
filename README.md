@@ -54,6 +54,6 @@ The dashboard was designed for project managers, senior executives, and finance 
 ## 🧰 Tools Used
 
 - Power BI Desktop
-- SQL Server
+- PostgreSQL
 - Excel
 - DAX for dynamic filtering, real time analysis and time-based logic
