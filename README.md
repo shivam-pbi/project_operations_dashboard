@@ -45,4 +45,3 @@ The dashboard was designed for project managers, senior executives, and finance 
 - Cost codes like "Backfill Pothole <48in" showed high labor inefficiency
 - Forecast vs budget gaps informed strategic reallocation of resources
 - Scalable dashboard design made it easy to replicate across other divisions
-[Sample_4.pdf](https://github.com/user-attachments/files/20636936/Sample_4.pdf)
