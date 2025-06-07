@@ -50,3 +50,10 @@ The dashboard was designed for project managers, senior executives, and finance 
 - Cost codes like "Backfill Pothole <48in" showed high labor inefficiency
 - Forecast vs budget gaps informed strategic reallocation of resources
 - Scalable dashboard design made it easy to replicate across other divisions
+
+## 🧰 Tools Used
+
+- Power BI Desktop
+- SQL Server
+- Excel
+- DAX for dynamic filtering, real time analysis and time-based logic
