@@ -1,6 +1,7 @@
 # 📊 Project Operations Dashboard – Power BI / SQL
 
-This Power BI dashboard was developed to provide real-time insights into project financials and operational performance across infrastructure projects.
+This Power BI dashboard was developed to provide real-time insights into project financials and operational performance across infrastructure projects.![IMG_3819](https://github.com/user-attachments/assets/4367386e-3623-4b28-bba2-4bb7bf4587b8)
+
 
 ---
 
@@ -45,4 +46,3 @@ The dashboard was designed for project managers, senior executives, and finance 
 - Cost codes like "Backfill Pothole <48in" showed high labor inefficiency
 - Forecast vs budget gaps informed strategic reallocation of resources
 - Scalable dashboard design made it easy to replicate across other divisions
-![IMG_3819](https://github.com/user-attachments/assets/41d7d319-a5ee-4a64-8594-622fed0bad57)
