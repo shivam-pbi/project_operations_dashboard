@@ -2,7 +2,8 @@
 
 This Power BI dashboard was developed to provide real-time insights into project financials and operational performance across infrastructure projects.
 
-![IMG_3819](https://github.com/user-attachments/assets/4367386e-3623-4b28-bba2-4bb7bf4587b8)
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/12f83935-dc6b-43b6-b10c-8bb3e7b85540" />
+
 
 
 ---
