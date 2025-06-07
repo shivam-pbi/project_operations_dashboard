@@ -1,4 +1,4 @@
-# 📊 ABC XYZ Infrastructure Dashboard – Power BI
+# 📊 Project Operations Dashboard – Power BI / SQL
 
 This Power BI dashboard was developed to provide real-time insights into project financials and operational performance across infrastructure projects.
 
