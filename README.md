@@ -44,12 +44,16 @@ The dashboard was designed for project managers, senior executives, and finance 
 2. **Cost Code Summary** – Cost class breakdown, top/bottom variances
 3. **Productivity Report** – Actual vs budgeted labor hours, quantities, and crew days
 
+---
+
 ## 🔑 Key Takeaways
 
 - Projects with over ±30% forecast variance were flagged early for action
 - Cost codes like "Backfill Pothole <48in" showed high labor inefficiency
 - Forecast vs budget gaps informed strategic reallocation of resources
 - Scalable dashboard design made it easy to replicate across other divisions
+
+---
 
 ## 🧰 Tools Used
 
